@@ -14,11 +14,9 @@
    2.Poojitha Prasad[poojitha-prasad]
    
    3.Pooja.M[poojamothi]
-   
-#LIBRARIES USED
 
-  Python 3.9.7
-  SpeechRecognition 3.8.1
+
+  
   
  
                 

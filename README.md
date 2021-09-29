@@ -9,26 +9,26 @@
  
 #TEAM MEMBERS
 
-   1.Susan Philip[SusanPhilip]
+      1.Susan Philip[SusanPhilip]
    
-   2.Poojitha Prasad[poojitha-prasad]
+      2.Poojitha Prasad[poojitha-prasad]
    
-   3.Pooja.M[poojamothi]
+      3.Pooja.M[poojamothi]
 
 
  #LIBRARIES USED
 
-   *Python 3.9.7
+     *Python 3.9.7
 
-   *SpeechRecognition 3.8.1
+     *SpeechRecognition 3.8.1
 
-   *pyttsx3 2.90 
+     *pyttsx3 2.90 
 
-   *Flask 2.0.1
+     *Flask 2.0.1
 
-   *pywhatkit 5.1
+     *pywhatkit 5.1
 
-   *PyAudio-0.2.11-For python version 3.6.0 or lesser  :-  pip install PyAudio
+     *PyAudio-0.2.11-For python version 3.6.0 or lesser  :-  pip install PyAudio
                for higher version download the wheel file for PyAudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/
                For example : python 3.9 -download PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
                 and

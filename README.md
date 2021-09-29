@@ -17,9 +17,9 @@
    
 #LIBRARIES USED
 
-Python 3.9.7
-SpeechRecognition 3.8.1
-pyttsx3 2.90 
+*Python 3.9.7
+*SpeechRecognition 3.8.1
+*pyttsx3 2.90 
 Flask 2.0.1
 pywhatkit 5.1
 PyAudio-0.2.11-For python version 3.6.0 or lesser  :-  pip install PyAudio
